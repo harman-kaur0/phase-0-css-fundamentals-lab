@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  margin: 0auto;
+  display: block;
+}
+nav {
+  text-align: center;
+  display: block;
+  background: grey;
+  padding: 0 10px 0 10px;
+}
+
+p {
+  text-align: center;
+}
+p.featured-property {
+  width: 800px;
+}
+
+.details {
+  float: left;
+  text-align: center;
+  display: block;
+}
+div {
+  background: red;
+  text-align: center;
+  width: 100%;
+}
