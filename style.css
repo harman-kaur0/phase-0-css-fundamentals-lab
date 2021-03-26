@@ -7,8 +7,8 @@ h1 {
   text-align: center;
 }
 img {
-  margin: 0auto;
   display: block;
+  margin: 0 auto;
 }
 nav {
   text-align: center;
